@@ -70,9 +70,9 @@ Silicon Photonics,
 2D Materials and Metasurfaces
 Advanced Optical Technologies
 🤝 Let's Connect
-GitHub: @Athirakn94
+GitHub: @Athira-Kuppadakkath
 Google Scholar: My Publications
 LinkedIn: Coming soon
-Email: Coming soon
+Email: athirakuppadakkath@gmail.com
 
 Exploring the intersection of photonics, nanomaterials, and light–matter interactions. ✨
