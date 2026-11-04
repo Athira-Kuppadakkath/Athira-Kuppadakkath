@@ -9,57 +9,40 @@ My research interests lie at the intersection of photonics, nanotechnology, and 
 
 I have experience in electromagnetic simulations, optical characterization, spectroscopy, and nanofabrication. I enjoy combining computational modelling and experimental techniques to investigate photonic structures and explore their optical properties.
 
-🔬 Research Interests
-Hybrid Photonic Nanostructures
-Transition Metal Dichalcogenides (TMDs)
-Nanophotonics and Light–Matter Interactions
-Silicon Photonics
-Semiconductor Technologies
-Metasurfaces
-Two-Dimensional (2D) Materials
+##🔬 Research Interests-
+
+Hybrid Photonic Nanostructures,
+Transition Metal Dichalcogenides (TMDs),
+Nanophotonics and Light–Matter Interactions,
+Silicon Photonics,
+Semiconductor Technologies,
+Metasurfaces,
 Photonic Device Design and Characterization
-🛠️ Technical Skills
-Programming & Computational Tools
-Python
-MATLAB
-C++
-LabVIEW
-Electromagnetic Modelling & Simulation
-Lumerical
-Finite-Difference Time-Domain (FDTD) Simulations
-Electromagnetic Simulations
-Optical Characterization & Spectroscopy
-Photoluminescence (PL) Spectroscopy
-Raman Spectroscopy
-Optical Spectroscopy
-Optical Microscopy
-Nanofabrication & Design
-Nanofabrication
-KLayout
-Photonic Structure Design
-🚀 Research Projects
+
+
+##🛠️ Technical Skills-
+
+Python, MATLAB, C++, LabVIEW, Lumerical, Finite-Difference Time-Domain (FDTD) Simulations, Electromagnetic Simulations, Optical Characterization & Spectroscopy, Photoluminescence (PL) Spectroscopy, Raman Spectroscopy, Optical Spectroscopy, Optical Microscopy, Nanofabrication, KLayout
+
+
+##🚀 Research Projects-
 1. Hybrid Photonic Nanostructures with TMDs
 
-PhD Research – Friedrich Schiller University Jena
+PhD Research – Friedrich Schiller University Jena - Doctoral research focused on the creation and investigation of hybrid photonic nanostructures incorporating transition metal dichalcogenides (TMDs).
 
-Doctoral research focused on the creation and investigation of hybrid photonic nanostructures incorporating transition metal dichalcogenides (TMDs).
+Research areas: Hybrid photonic nanostructures, Optical properties of TMDs, light–matter interactions, Photonic integration, Optical characterization and electromagnetic modelling
 
-Research areas:
 
-Hybrid photonic nanostructures
-Optical properties and light–matter interactions
-Photonic and nanomaterial integration
-Optical characterization and electromagnetic modelling
-2. Silicon Photonics – OpenEBL 2025
-
-An academic silicon photonics fabrication project.
+2. Silicon Photonics – OpenEBL 2025 - An academic silicon photonics fabrication project.
 
 Repository: openEBL-2025-10
 Focus: Silicon photonics and photonic structure design
-Tools: Python and KLayout (where applicable)
-🎓 Education & Certifications
+Tools: Lumerical, Python and KLayout
 
-PhD in Physics
+
+##🎓 Education & Certifications-
+
+PhD in Physics-
 Friedrich Schiller University Jena, Germany
 
 Dissertation: Creation and Investigation of Hybrid-Photonic Nanostructures with TMDs
@@ -69,21 +52,21 @@ University of British Columbia (UBC)
 
 [Certificate link – coming soon]
 
-📚 Research Publications
+##📚 Research Publications
 
 My research publications and academic contributions are available on Google Scholar.
 
 Google Scholar – Athira Kuppadakkath
 
-🌱 Research & Professional Interests
+##🌱 Research & Professional Interests
 
 I am interested in advancing research in photonics and nanotechnology, particularly in the development and investigation of novel photonic structures, semiconductor materials, and emerging optical technologies.
 
 I am keen to connect with researchers, academic institutions, and industry professionals working in:
 
-Photonics and Nanophotonics
-Semiconductor Research
-Silicon Photonics
+Photonics and Nanophotonics,
+Semiconductor Research,
+Silicon Photonics,
 2D Materials and Metasurfaces
 Advanced Optical Technologies
 🤝 Let's Connect
