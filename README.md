@@ -23,13 +23,23 @@ Photonic Device Design and Characterization
 **1. Hybrid Photonic Nanostructures with TMDs** <br>
 PhD Research – Friedrich Schiller University Jena - Doctoral research focused on the creation and investigation of hybrid photonic nanostructures incorporating transition metal dichalcogenides (TMDs). <br>
 
-**2. Silicon Photonics – OpenEBL 2025** - An academic silicon photonics fabrication project. <br>
+**3. Silicon Photonics workshop imcec Ghent 2025** - An academic silicon photonics fabrication project. <br>
+Repository: Vernier_ring_LucedaIPKISS_2025-07-01 <br>
+Focus: Silicon Vernier ring design <br>
+Tools: Python, Luceda IPKISS, and KLayout
+
+**3. Silicon Photonics – OpenEBL 2025** - An academic silicon photonics fabrication project. <br>
 Repository: openEBL-2025-10 <br>
 Focus: Silicon photonics and photonic structure design <br>
 Tools: Lumerical, Python and KLayout
 
 
 ##🎓 Education & Certifications-<br>
+**Postoc IISC**<br>
+Indian Institute of Science, India<br>
+Project: Design and fabrication of polymer photonic structures on fiber facet<br>
+Repository: <coming_soon>
+
 **PhD in Physics**<br>
 Friedrich Schiller University Jena, Germany<br>
 Dissertation: Creation and Investigation of Hybrid-Photonic Nanostructures with TMDs<br>
@@ -52,6 +62,8 @@ Silicon Photonics,<br>
 Advanced Optical Technologies<br>
 🤝 Let's Connect<br>
 GitHub: @Athira-Kuppadakkath<br>
-[![Google Scholar](https://shields.io)](https://scholar.google.com/citations?user=9C5j_TEAAAAJ&hl=en) <br>
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/a-kuppadakkath/)  <br>
+[![Google Scholar](https://shields.io)](https://scholar.google.com/citations?user=9C5j_TEAAAAJ&hl=en)
+<br>
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/a-kuppadakkath/)
+<br>
 Email: athirakuppadakkath@gmail.com
